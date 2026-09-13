@@ -28,3 +28,7 @@ needs no special permissions.
 
 Part of SpazzMods — free modules and a $10/month premium catalog:
 https://www.patreon.com/user?u=224896501
+
+## Get help
+
+[Get Help](https://github.com/Spazzletopia-Studios/spazzmods-support) — report a bug, get install help, ask a question, or suggest an idea.
